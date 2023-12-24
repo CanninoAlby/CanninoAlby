@@ -35,10 +35,11 @@
   - Learning: Constantly expanding my knowledge by exploring new technologies and concepts.
   
 - 🌱 I'm currently learning:
-  - Fundamentals of Backend Development: Grasping the basics of server-side programming using languages like Python or Node.js.
-  - Database Essentials: Exploring introductory SQL and NoSQL databases to understand data storage and retrieval.
-  - API Development: Learning how to create simple RESTful APIs and understanding HTTP methods.
-  - Basic DevOps Practices: Getting started with version control using Git and learning about basic deployment concepts.
+  - Microservices Architecture: Exploring best practices for designing and implementing microservices.
+  - Containerization: Learning Docker and Kubernetes for scalable and efficient deployment.
+  - Serverless Computing: Exploring serverless frameworks like AWS Lambda or Azure Functions.
+  - API Design: Studying RESTful principles and GraphQL for efficient API development.
+  - Database Optimization: Diving deeper into database indexing, query optimization, and performance tuning.
 
 - 🤝 Let's connect:
   - LinkedIn : https://www.linkedin.com/in/cannino/
