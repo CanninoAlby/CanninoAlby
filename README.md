@@ -33,11 +33,13 @@
   - Coding: I love to dive into various programming languages and explore their applications.
   - Problem Solving: I enjoy tackling complex problems and finding elegant solutions.
   - Learning: Constantly expanding my knowledge by exploring new technologies and concepts.
+  
 -🌱 I'm currently learning:
   - Fundamentals of Backend Development: Grasping the basics of server-side programming using languages like Python or Node.js.
   - Database Essentials: Exploring introductory SQL and NoSQL databases to understand data storage and retrieval.
   - API Development: Learning how to create simple RESTful APIs and understanding HTTP methods.
   - Basic DevOps Practices: Getting started with version control using Git and learning about basic deployment concepts.
+
 - 🤝 Let's connect:
   - [LinkedIn] : https://www.linkedin.com/in/cannino/
 <!--Intro end-->
