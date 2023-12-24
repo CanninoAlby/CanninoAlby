@@ -41,7 +41,7 @@
   - Basic DevOps Practices: Getting started with version control using Git and learning about basic deployment concepts.
 
 - 🤝 Let's connect:
-  - [LinkedIn] : https://www.linkedin.com/in/cannino/
+  - LinkedIn : https://www.linkedin.com/in/cannino/
 <!--Intro end-->
 
 
